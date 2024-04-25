@@ -85,6 +85,6 @@ for(var i=0;i<res.length;i++){
 // For of Loop for printing all elements in the JSON, used for Arrays
 
     for(var array of res) {
-        console.log(key)
+        console.log(array)
     }
 
